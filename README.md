@@ -1,5 +1,7 @@
 # NEMU Lab
 
+> [Learning-Space/Intro-to-Computer-System](https://github.com/huang-feiyu/Learning-Space/tree/master/Introduction-to-Computer-System)
+
 本仓库为南京大学 [icspa-public](https://github.com/ics-nju-wl/icspa-public) 实验代码。
 
 在 [docs](./docs) 中将会记录每一个 PA 的具体实现。
